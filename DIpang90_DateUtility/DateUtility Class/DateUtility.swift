@@ -9,7 +9,7 @@
 import Foundation
 
 
-struct DateUtil {
+public struct DateUtil {
     static var formate = "yyyy-MM-dd"
     static var timeZone = ""
     static var locale = ""
